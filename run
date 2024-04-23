@@ -1,0 +1,3 @@
+#!/bin/sh
+
+poetry run python -m mc_rugby_match_outcome_prediction.main
